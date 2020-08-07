@@ -1,1 +1,8 @@
 .python-version
+
+renv/library/
+renv/staging/
+.Rprofile
+
+.DS_store
+
