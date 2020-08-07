@@ -212,6 +212,13 @@
       "Repository": "CRAN",
       "Hash": "f61dbaec772ccd2e17705c1e872e9e7c"
     },
+    "class": {
+      "Package": "class",
+      "Version": "7.3-15",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "4fba6a022803b6c3f30fd023be3fa818"
+    },
     "cli": {
       "Package": "cli",
       "Version": "2.0.2",
@@ -632,6 +639,13 @@
       "Repository": "CRAN",
       "Hash": "361811f31f71f8a617a9a68bf63f1f42"
     },
+    "lineup": {
+      "Package": "lineup",
+      "Version": "0.37-11",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "ae6c5da8b7c6d40326a0fb36a1f81ca2"
+    },
     "listenv": {
       "Package": "listenv",
       "Version": "0.8.0",
@@ -834,6 +848,13 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "97def703420c8ab10d8f0e6c72101e02"
+    },
+    "qtl": {
+      "Package": "qtl",
+      "Version": "1.46-2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "f5788ca164b32825b39e8e537403ccc8"
     },
     "rappdirs": {
       "Package": "rappdirs",
