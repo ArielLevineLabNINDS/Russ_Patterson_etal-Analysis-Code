@@ -286,7 +286,7 @@
       "Package": "data.table",
       "Version": "1.13.1",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": null,
       "Hash": "cbd0570423408954252fa569f24c6c58"
     },
     "dbplyr": {
@@ -830,10 +830,10 @@
     },
     "renv": {
       "Package": "renv",
-      "Version": "0.9.3",
+      "Version": "0.12.0",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "c1a367437d8a8a44bec4b9d4974cb20c"
+      "Hash": "7340c71f46a0fd16506cfa804e224e44"
     },
     "reprex": {
       "Package": "reprex",
